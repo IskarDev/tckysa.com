@@ -19,7 +19,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div class="mx-auto">
-                        <a href="https://wa.me/50763682506" target="_blank" class="text-decoration-none">
+                        <a href="https://walink.co/f398cb" target="_blank" class="text-decoration-none">
                             <img src="./public/assets/img/whatsapp.png" alt="whatsapp logo" width="30">
                             <span class="link-light">+507 6368 2506</span>
                         </a>

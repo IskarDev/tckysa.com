@@ -14,9 +14,10 @@
                 </div>
                 <div class="col-sm-5 pb-3 ps-sm-5">
                     <h6>Nuestras Redes Sociales</h6>
-                    <img src="<?=base_url('/public/assets/img/facebook.png')?>" alt="Nuestra cuenta de Facebook" width="50px">
-                    <img src="<?=base_url('/public/assets/img/instagram.png')?>" alt="Nuestra cuenta de Instagram" width="39px">
-                    <a href="https://wa.me/50763682506" target="_blank" class="text-decoration-none"><img src="<?=base_url('/public/assets/img/whatsapp.png')?>" alt="Nuestra cuenta de Whatsapp" width="39px"></a>
+                    
+                    <?=anchor('https://www.facebook.com/transportekunayala','<img src='. base_url('/public/assets/img/facebook.png').' target="_blank" width="50px" alt="Facebook">');?>
+                    <?=anchor('https://www.instagram.com/transporteycargakunayala/','<img src='. base_url('/public/assets/img/instagram.png').' target="_blank" width="39px" alt="Instagram">');?>
+                    <?=anchor('https://wa.me/50763682506','<img src='. base_url('/public/assets/img/whatsapp.png').' target="_blank" width="39px" alt="WhatsApp">');?>
                 </div>
             </div>
             
