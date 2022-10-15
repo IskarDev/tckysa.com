@@ -32,7 +32,7 @@
                             <a class="nav-link" href="<?=base_url('/about')?>">Quienes Somos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="mailto:contacto@tckysa.com">Contacto</a>
+                            <a class="nav-link" href="mailto:">Contacto</a>
                         </li>
                     </ul>
                 </div>
