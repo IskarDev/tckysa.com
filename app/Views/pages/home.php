@@ -4,6 +4,10 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="<?=base_url('/public/assets/img/slide001.jpg')?>" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>BIENVENIDOS(AS) A CIUDAD DE PANAMÁ</h5>
+                        <p>Vista de la Cinta Costera.</p>
+                    </div>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

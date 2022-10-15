@@ -1,7 +1,7 @@
     <footer class="mt-auto bg-dark text-white pt-5 pb-3">
         <div class="container">
             <div class="row">
-                <div class="col-sm-2 pb-3">
+                <div class="col-sm-2 pb-3 text-center">
                     <img src="<?=base_url('/public/assets/img/logo.png')?>" alt="LOGO TCKY" width="75%">
                 </div>
                 <div class="col-sm-5 pb-3">
@@ -12,7 +12,7 @@
                         <br><b>e-Mail: </b><em>|&nbsp;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#116;&#99;&#107;&#121;&#115;&#97;&#46;&#99;&#111;&#109;&nbsp;|</em>
                     </p>
                 </div>
-                <div class="col-sm-5 pb-3">
+                <div class="col-sm-5 pb-3 ps-sm-5">
                     <h6>Nuestras Redes Sociales</h6>
                     <img src="<?=base_url('/public/assets/img/facebook.png')?>" alt="Nuestra cuenta de Facebook" width="50px">
                     <img src="<?=base_url('/public/assets/img/instagram.png')?>" alt="Nuestra cuenta de Instagram" width="39px">
