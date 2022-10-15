@@ -28,9 +28,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="<?=base_url()?>">Inicio</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="<?=base_url('/about')?>">Quienes Somos</a>
-                        </li>
+                        <!--<li class="nav-item">
+                            <a class="nav-link" href="< ? = /*base_url('/about')*/ ? > ">Quienes Somos</a>
+                        </li>-->
                         <li class="nav-item">
                             <?= safe_mailto('contacto@tckysa.com', 'Contacto','class="nav-link"')?>
                         </li>

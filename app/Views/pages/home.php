@@ -9,6 +9,13 @@
                         <p>Vista de la Cinta Costera.</p>
                     </div>
                 </div>
+                <div class="carousel-item">
+                    <img src="<?=base_url('/public/assets/img/slide002.jpg')?>" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>KUNA YALA, EL PARAÍSO EN PANAMÁ</h5>
+                        <p>Te llevamos a las playas mas hermosas.</p>
+                    </div>
+                </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
