@@ -11,7 +11,7 @@
 </head>
 <body class="d-flex flex-column min-vh-100">
     <header>
-        <nav class="navbar navbar-expand-lg bg-light">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
                 <a class="navbar-brand" href="<?=base_url()?>">TCKY S.A.</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,12 +19,12 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div class="mx-auto">
-                        <a href="https://wa.me/50763682506" target="_blank" class="text-decoration-none">
+                        <a href="https://wa.me/50763682506" target="_blank" class="text-decoration-none nav-link">
                             <img src="./public/assets/img/whatsapp.png" alt="whatsapp logo" width="30">
                             <span>+507 6368 2506</span>
                         </a>
                     </div>
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav ">
                         <li class="nav-item">
                             <a class="nav-link" href="<?=base_url()?>">Inicio</a>
                         </li>
@@ -32,10 +32,17 @@
                             <a class="nav-link" href="<?=base_url('/about')?>">Quienes Somos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="mailto:">Contacto</a>
+                            <?= safe_mailto('contacto@tckysa.com', 'Contacto','class="nav-link"')?>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
+        <!--<div class="container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">Inicio</li>
+                </ol>
+            </nav>
+        </div> -->
     </header>

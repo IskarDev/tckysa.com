@@ -2,18 +2,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-2 pb-3">
-                    <img src="<?=base_url('/public/assets/img/logo.png')?>" alt="LOGO TCKY" width="100%">
+                    <img src="<?=base_url('/public/assets/img/logo.png')?>" alt="LOGO TCKY" width="75%">
                 </div>
                 <div class="col-sm-5 pb-3">
-                    <h6>TRANSPORTE Y CARGA KUNA YALA</h6>
-                    <p><b>Dirección:</b> Provincia de Panamá Oeste, Distrito de Arraijàn, Corregimiento de Arraiján, Loma Cobá</p>
-                    <p><b>Teléfono:</b> +507 342 6030</p>
-                    <p><b>e-Mail:</b>contacto<code>&#64;</code>tckysa.com</p>
+                    <h6>TRANSPORTE Y CARGA KUNA YALA S.A.</h6>
+                    <p>
+                        <br><b>Dirección:</b> Provincia de Panamá Oeste, Distrito de Arraijàn, Corregimiento de Arraiján, Loma Cobá
+                        <br><b>Teléfono: </b> +507 342 6030
+                        <br><b>e-Mail: </b><em>|&nbsp;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#116;&#99;&#107;&#121;&#115;&#97;&#46;&#99;&#111;&#109;&nbsp;|</em>
+                    </p>
                 </div>
                 <div class="col-sm-5 pb-3">
                     <h6>Nuestras Redes Sociales</h6>
                     <img src="<?=base_url('/public/assets/img/facebook.png')?>" alt="Nuestra cuenta de Facebook" width="50px">
-                    <img src="<?=base_url('/public/assets/img/instagram.png')?>" alt="Nuestra cuenta de Facebook" width="39px">
+                    <img src="<?=base_url('/public/assets/img/instagram.png')?>" alt="Nuestra cuenta de Instagram" width="39px">
+                    <a href="https://wa.me/50763682506" target="_blank" class="text-decoration-none"><img src="<?=base_url('/public/assets/img/whatsapp.png')?>" alt="Nuestra cuenta de Whatsapp" width="39px"></a>
                 </div>
             </div>
             
