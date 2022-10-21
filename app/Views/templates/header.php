@@ -26,7 +26,7 @@
                     </div>
                     <ul class="navbar-nav ">
                         <li class="nav-item">
-                            <a class="nav-link" href="<?=base_url()?>">Inicio</a>
+                            <?=anchor(base_url(),lang('Header.home'),'class="nav-link"')?>
                         </li>
                         <!--<li class="nav-item">
                             <a class="nav-link" href="< ? = /*base_url('/about')*/ ? > ">Quienes Somos</a>
