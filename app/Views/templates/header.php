@@ -8,6 +8,7 @@
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="<?=base_url('public/assets/css/estilo.css')?>">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 </head>
 <body class="d-flex flex-column min-vh-100">
     <header>
@@ -26,13 +27,13 @@
                     </div>
                     <ul class="navbar-nav ">
                         <li class="nav-item">
-                            <?=anchor(base_url(),lang('Header.home'),'class="nav-link"')?>
+                            <?=anchor(base_url(),'<i class="bi bi-house-door"></i> ' . lang('Header.home'),'class="nav-link"')?>
                         </li>
                         <!--<li class="nav-item">
                             <a class="nav-link" href="< ? = /*base_url('/about')*/ ? > ">Quienes Somos</a>
                         </li>-->
                         <li class="nav-item">
-                            <?= safe_mailto('contacto@tckysa.com', 'Contacto','class="nav-link"')?>
+                            <?= safe_mailto('contacto@tckysa.com','Contacto','class="nav-link"')?>
                         </li>
                     </ul>
                 </div>

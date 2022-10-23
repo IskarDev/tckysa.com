@@ -9,7 +9,7 @@
                     <p>
                         <br><b>Dirección:</b> Provincia de Panamá Oeste, Distrito de Arraijàn, Corregimiento de Arraiján, Loma Cobá
                         <br><b>Teléfono: </b> +507 342 6030
-                        <br><b>e-Mail: </b><em>|&nbsp;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#116;&#99;&#107;&#121;&#115;&#97;&#46;&#99;&#111;&#109;&nbsp;|</em>
+                        <br><b>e-Mail: </b>&nbsp;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#116;&#99;&#107;&#121;&#115;&#97;&#46;&#99;&#111;&#109;&nbsp;
                     </p>
                 </div>
                 <div class="col-sm-5 pb-3 ps-sm-5">
