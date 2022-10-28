@@ -8,11 +8,17 @@
                     <h6>TRANSPORTE Y CARGA KUNA YALA S.A.</h6>
                     <p>
                         <br><b>Dirección:</b> Provincia de Panamá Oeste, Distrito de Arraijàn, Corregimiento de Arraiján, Loma Cobá
-                        <br><b>Teléfono: </b> +507 342 6030
+                        <br><b>Teléfono: </b> +507 342 6030 | +507 6368 2506
                         <br><b>e-Mail: </b>&nbsp;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#116;&#99;&#107;&#121;&#115;&#97;&#46;&#99;&#111;&#109;&nbsp;
                     </p>
                 </div>
                 <div class="col-sm-5 pb-3 ps-sm-5">
+                    <div id="aceptamos_pagos" class="pb-3">
+                        <h6>Aceptamos:</h6>
+                        <img src="<?=base_url('/public/assets/img/yappy.png')?>" width="100px">
+                        <img src="<?=base_url('/public/assets/img/PayPal.png')?>" alt="PayPal" width="91px">
+                    </div>
+                    
                     <h6>Nuestras Redes Sociales</h6>
                     
                     <?=anchor('https://www.facebook.com/transportekunayala','<img src='. base_url('/public/assets/img/facebook.png').' target="_blank" width="50px" alt="Facebook">');?>
