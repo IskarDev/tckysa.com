@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-2 pb-3 text-center">
-                    <img src="<?=base_url('/public/assets/img/logo.png')?>" alt="LOGO TCKY" width="75%">
+                    <img src="<?=base_url('/public/assets/img/logo_nov2022.png')?>" alt="LOGO TCKY" width="75%">
                 </div>
                 <div class="col-sm-5 pb-3">
                     <h6>TRANSPORTE Y CARGA KUNA YALA S.A.</h6>
